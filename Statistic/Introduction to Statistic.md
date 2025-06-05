@@ -1,6 +1,6 @@
-# Introduction to Statistic
+# Introduction to Statistics
 
-# Statistic: 
+# Statistics: 
 the science of collecting, organizing and analyzing data. 
 
 # Data: 
