@@ -1,3 +1,4 @@
 # 5 number summary
 
-![Uploading 3-Sample+Varianhce.png…]()
+
+![Uploading Screenshot 2025-06-06 121139.png…]()
