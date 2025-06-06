@@ -27,5 +27,8 @@ from central tendency.
 = Q3 - Q1 > Percentiles 
 
 - Provide meausre of dispersion using different of Q3 and Q1
+- less senstive to outliers
+- If you're in the 90th percentile in a test, it means you scored better than 90% of the people.
 
-- less senstive to outliers![Measures-of-Central-Tendency-and-Dispersion](https://github.com/user-attachments/assets/ece2cdca-f6f7-4c19-8456-3bb9e8063197)
+
+![Measures-of-Central-Tendency-and-Dispersion](https://github.com/user-attachments/assets/ece2cdca-f6f7-4c19-8456-3bb9e8063197)
