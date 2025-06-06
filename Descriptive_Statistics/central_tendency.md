@@ -19,4 +19,7 @@ It helps to summarizes a set of data by identifying the central position.
 = {2, 4, 4, 6, **7, 7, 7**, 9} > Most frequent data
 
 - not affected by extreme outliers
-- used for categorical data to identify the most common category. 
+- used for categorical data to identify the most common category.
+
+
+![Mean-Median-Mode-Diagrams-1024x329](https://github.com/user-attachments/assets/942c49e9-add4-40ba-ba1e-b9e35fd0d3d8)
