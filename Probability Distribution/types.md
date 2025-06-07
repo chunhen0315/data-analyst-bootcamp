@@ -1,6 +1,6 @@
 # Type of Distribution
 
-![images](https://github.com/user-attachments/assets/d8a843db-8eec-4e3e-a336-672b2a0ef81a)
+![1_nOMS0KgevT7YfqtfnhgXUg](https://github.com/user-attachments/assets/6d662920-e5c3-4963-ba16-e8fc0cafd9ae)
 
 | **Distribution Type**        | **Category** | **Description**                                                              | **Example**                                    | **Key Properties**                                                |
 | ---------------------------- | ------------ | ---------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------- |
