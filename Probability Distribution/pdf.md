@@ -4,13 +4,6 @@
 
 Probability distribution describe how probabilities are distributed over the value of random variable. 
 
-## Probability Mass Function (PMF): 
-Used for discrete random variable. 
-
-## Probability Density Function (PDF): 
-Used for continuous random variable
-
-## Cumulative Distribution Function (CDF): 
 
 | **Feature**                 | **PMF (Probability Mass Function)**                                                  | **PDF (Probability Density Function)**                                              | **CMF (Cumulative Distribution Function)**                                            |
 | --------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
