@@ -6,8 +6,8 @@ null hypothesis were true. It help to decide whether to reject the null hypo.
 ## 1. Set hypothesis 
 " Coin is fair or not {100 times}" 
 
-- Null Hypothesis H0 = Coin is fair
-- Alternative Hypothesis H1 = Coin is not fair
+> Null Hypothesis H0 = Coin is fair
+> Alternative Hypothesis H1 = Coin is not fair
 
 ## 2. Experiment 
 
