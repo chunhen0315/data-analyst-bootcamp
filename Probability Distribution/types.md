@@ -1,5 +1,7 @@
 # Type of Distribution
 
+![images](https://github.com/user-attachments/assets/d8a843db-8eec-4e3e-a336-672b2a0ef81a)
+
 | **Distribution Type**        | **Category** | **Description**                                                              | **Example**                                    | **Key Properties**                                                |
 | ---------------------------- | ------------ | ---------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------------- |
 | **Binomial Distribution**    | Discrete     | Counts number of successes in fixed number of independent Bernoulli trials   | Tossing a coin 10 times and counting heads     | Two outcomes (success/failure), fixed trials $n$, probability $p$ |
