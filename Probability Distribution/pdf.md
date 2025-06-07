@@ -1,5 +1,7 @@
 # Probability Distribution
 
+![maxresdefault](https://github.com/user-attachments/assets/f5f8cc67-b5a0-499b-92e1-241e7c1cf69f)
+
 Probability distribution describe how probabilities are distributed over the value of random variable. 
 
 ## Probability Mass Function (PMF): 
